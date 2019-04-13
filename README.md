@@ -1,2 +1,3 @@
 # Wealth_inside
 My first try...
+Внести в этот мир что-то стоящее
